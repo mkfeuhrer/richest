@@ -16,7 +16,7 @@ with open(path.join(this_directory, 'README.md'), encoding='utf-8') as f:
     long_description = f.read()
 
 setup(name='richest',
-      version='1.0.1',
+      version='1.0.0',
       description='A Python package for getting list of Richest people in the world',
       url='https://github.com/mkfeuhrer/richest',
       entry_points={'console_scripts': ['richest = richest.__main__:main']},

@@ -27,13 +27,13 @@ A Python package to extract World's Richest People (Based on Forbes Rankings)
 
 **To extract Top 20 Richest People**
 
-```python
+```
 richest --current
 ```
 
 **To extract Top 20 Youngest Richest People**
 
-```python
+```
 richest --youngest
 ```
 
