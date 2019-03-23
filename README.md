@@ -1,9 +1,11 @@
 # richest
 
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![GitHub](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://raw.githubusercontent.com/mkfeuhrer/richest/master/LICENSE.txt)
+[![PyPI version fury.io](https://badge.fury.io/py/richest.svg)](https://pypi.python.org/pypi/richest/)
 
-[![GitHub](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://raw.githubusercontent.com/mkfeuhrer/richest/master/LICENSE)
-[![PyPI Downloads](https://img.shields.io/pypi/dm/richest.svg)](https://pypi.org/project/richest/)
-[![PyPI](https://img.shields.io/pypi/v/richest.svg)](https://pypi.org/project/richest/)
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
 
 A Python package to extract World's Richest People (Based on Forbes Rankings)
 
